@@ -1,0 +1,22 @@
+{
+  "name": "middleware-tool",
+  "version": "1.0.4",
+  "description": "MiddlewareTool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wizardpisces/middleware.git"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "author": "wizardpisces",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wizardpisces/middleware/issues"
+  },
+  "homepage": "https://github.com/wizardpisces/middleware#readme"
+}
